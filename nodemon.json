@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_DB": "graphql-react-bookmyshow",
+    "MONGO_USER": "FAR11VEN",
+    "MONGO_PASSWORD": "2YmFa6tdPWelOtB9"
+  }
+}
