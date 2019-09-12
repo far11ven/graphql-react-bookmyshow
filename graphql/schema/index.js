@@ -6,8 +6,8 @@ type Booking{
     _id: ID!
     event: Event!
     user: User!
-    createdOn: String!
-    uodatesOn: String!
+    createdAt: String!
+    updatedAt: String!
    }
 type Event{
     _id: ID!
