@@ -23,13 +23,7 @@ app.use(
 mongoose;
 mongoose
   .connect(
-    "mongodb+srv://" +
-      process.env.MONGO_USER +
-      ":" +
-      process.env.MONGO_PASSWORD +
-      "@cluster0-n1cyt.gcp.mongodb.net/" +
-      process.env.MONGO_DB +
-      "?retryWrites=true",
+    "mongodb+srv://FAR11VEN:2YmFa6tdPWelOtB9@cluster0-n1cyt.gcp.mongodb.net/graphql-react-bookmyshow?retryWrites=true",
     {
       useNewUrlParser: true,
       useUnifiedTopology: true
